@@ -26,11 +26,7 @@
 }
 
 .greeting {
-  background: url("https://res.cloudinary.com/radiscipio/image/upload/v1579299403/mqinobblc239axi5w63u.jpg") no-repeat center center fixed;
-  height: 15em;
-  width: 100%;
-  background-size: cover;
-  color: white;
+
   display: flex;
   align-items: center;
   justify-content: center;
